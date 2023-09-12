@@ -1,0 +1,7 @@
+models refers to the language models underpinning a 
+lot of it. Prompts refers to 
+the style of creating inputs to pass into the models. 
+And then parsers is on the opposite end. 
+It involves taking the output of these models 
+and parsing it into a more structured format 
+so that you can do things downstream with it.
